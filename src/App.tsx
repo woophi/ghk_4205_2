@@ -94,8 +94,8 @@ const secondSection = [
   },
 ];
 
-const PRICE_PER_MONTH = 390;
-const PRICE_PER_MONTH_ANNUAL = 280;
+const PRICE_PER_MONTH = 349;
+const PRICE_PER_MONTH_ANNUAL = 279;
 
 export const App = () => {
   const [loading, setLoading] = useState(false);
